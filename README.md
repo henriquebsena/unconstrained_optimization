@@ -8,13 +8,13 @@
 **OBJETIVO GERAL:** Estudar livro texto [1] e apresentar uma versão Python dos algoritmos e códigos contidos nos capítulos, assim como adicionar algumas informações extras e criar um material (simples) para complementar o estudo e agilizar alguma possível necessidade.
 
 
-**FORMA DE CONSTRUÇÃO DE UM NOTEBOOK SOBRE O CAPÍTULO DO LIVRO TEXTO:**
+**FORMA DE CONSTRUÇÃO DE MATERIAL:**
 
     I) Leitura completa do capítulo;  
-    II) Pesquisa por algum material complementar para adicionar algum conhecimento extra (mesmo que um mero detalhe);
-    III) Teste dos códigos na versão R do livro;
-    IV) Migração dos códigos R para a versão Python;
-    V) Construção do arquivo no Jupyter Notebook;
+    II) Pesquisa por algum material complementar;
+    III) Teste dos códigos e algoritmos do livro na versão R;
+    IV) Migração dos códigos R em (III) para a versão Python no Jupyter Notebook;
+    V) Construção do arquivo final no Jupyter Notebook;
     VI) Upload no repositório.
 
 

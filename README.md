@@ -1,11 +1,13 @@
-# unconstrained_optmization
+# OTIMIZAÇÃO IRRESTRITA
 
-**BIBLIOGRAFIA**
+**BIBLIOGRAFIA:**
     
     [1] S. K. Mishra, B. Ram. 2019. Introduction to Unconstrained Optimization with R. Springer. 
 
 
-**OBJETIVO GERAL:** Estudar livro texto [1] e apresentar uma versão Python dos algoritmos e códigos contidos nos capítulos, assim como adicionar algumas informações extras e criar um material (simples) para complementar o estudo e agilizar alguma possível necessidade.
+**OBJETIVO GERAL:**
+    
+    Estudar livro texto [1] e apresentar uma versão Python dos algoritmos e códigos contidos nos capítulos, assim como adicionar algumas informações extras e criar um material (simples) para complementar o estudo e agilizar alguma possível necessidade.
 
 
 **FORMA DE CONSTRUÇÃO DE UM NOTEBOOK SOBRE O CAPÍTULO DO LIVRO TEXTO:**

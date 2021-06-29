@@ -20,7 +20,7 @@
 
 **AVISO:** A editora Springer tem direitos sobre o capital intelectual dos códigos originais e trechos do livro texto que são utilizados aqui. Desta forma, este material é somente para estudo e melhoria de conhecimento, sendo ilegal a venda do mesmo ou a obtenção de qualquer lucro. Além disso, deve-se ter em mente de que este material é construído para melhorar meu conhecimento na área e por isso não deve-se assumir que os códigos vistos aqui são totalmente precisos ou corretos.
 
-**[1] - Contents:**
+**LIVRO TEXTO - CONTEÚDO:**
 
     1 Introduction ........................................... 1
         1.1 Historical Note on Unconstrained Optimization ............. 1

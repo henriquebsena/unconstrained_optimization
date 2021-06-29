@@ -67,7 +67,7 @@
     6 Steepest Descent Method.................................. 131
         6.1 Introduction ....................................... 131
         6.2 Basics of Steepest Descent Method...................... 132
-        6.3 Steepest Descent Method .............................. 136
+        6.3 Steepest Descent Method for Quadratic "Polynomial" Functions .... 136
         6.4 Convergence Analysis of Steepest Descent Algorithm ......... 146
         6.5 Case Study: Portfolio Selection Problem .................. 160
         6.6 Exercises ......................................... 171
